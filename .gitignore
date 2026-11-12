@@ -1,0 +1,10 @@
+﻿# LaTeX 中间文件
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+# 本地构建草稿
+.build/
